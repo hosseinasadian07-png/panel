@@ -18,8 +18,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "nova-proxy-db",
-      "database_id": "62edd8c3-55b4-4ec7-8418-5e04e7f9dbe5"
+      "database_name": "llm-db",
+      "database_id": "5662e60d-bbfe-4fde-a520-2e8d437282b9"
     }
   ],
   "vars": {
