@@ -11,8 +11,8 @@
   "compatibility_flags": ["nodejs_compat"],
   "kv_namespaces": [
       {
-        "id": "1680cc22031f4235aece03e0c8664da8",
-        "binding": "KV"
+        "id": "70edd0563be54183a69a472def12b5b3",
+        "binding": "llm-kv"
       }
   ],
   "d1_databases": [
