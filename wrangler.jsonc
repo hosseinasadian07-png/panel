@@ -11,7 +11,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "kv_namespaces": [
       {
-        "id": "70edd0563be54183a69a472def12b5b3",
+        "id": "4178c73f81ff4f0d94a08600fea136fe",
         "binding": "llm-kv"
       }
   ],
@@ -19,7 +19,7 @@
     {
       "binding": "DB",
       "database_name": "llm-db",
-      "database_id": "5662e60d-bbfe-4fde-a520-2e8d437282b9"
+      "database_id": "010ecc08-5488-4c7d-816a-50ac55525e4b"
     }
   ],
   "vars": {
